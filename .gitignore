@@ -4,7 +4,6 @@
 /backup
 /convert_output
 /csv_output
-/input
 /SERVICE_ACCOUNT_KEY.json
 /SERVICE_ACCOUNT_KEY2.json
 /training-text.txt
