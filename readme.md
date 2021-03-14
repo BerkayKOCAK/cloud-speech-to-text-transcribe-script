@@ -1,4 +1,4 @@
-#Speech To Text Scpript for Cloud based Cognitive Services
+# Speech To Text Scpript for Cloud based Cognitive Services
 
 This is a Speech to Text script for cloud based cognitive services.
 Put your audio files with .ogg extension to \"input\" folder. Ogg files will be conveted to wav file with built in resampling configurations
