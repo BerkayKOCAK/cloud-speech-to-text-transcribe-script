@@ -4,7 +4,7 @@ This is a Speech to Text script for cloud based cognitive services.
 
 To use it, first you need to get a subscribed account at a cloud provider like azure, google, amazon,  etc.
 
-Then you need to create an endpoint in cloud to be able to work via this script.
+Then you need to create an endpoint in cloud for speech to text to be able to work via this script.
 
 ----
 
