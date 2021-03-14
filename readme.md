@@ -6,3 +6,6 @@ Your converted files will be in convert_output. Dont mess with this folder if yo
 Results of the Speech To Text process will be saved in "csv_output" folder.
 
 usage: .\main.py ServiceProvider Subscription Region Endpoint_id
+
+
+## UNDER CONSTRUCT
