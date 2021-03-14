@@ -11,3 +11,8 @@
 /words (Autosaved).xlsx
 /words-before-blank-delete.xlsx
 /words.xlsx
+
+*.xlsx
+*.csv
+*.ogg
+*.wav
